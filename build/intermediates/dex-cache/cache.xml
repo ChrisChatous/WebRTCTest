@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/chris/Desktop/workspace/android1/app/libs/libjingle_peerconnection.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8cf209c7142920eac60bb372f0642102f4671e65">
+        <dex dex="/home/chris/Desktop/workspace/android1/app/build/intermediates/pre-dexed/debug/libjingle_peerconnection-a5b83430ffcedf12df1b0005af357a1214ad1e64.jar" />
+    </item>
+    <item
+        jar="/home/chris/Desktop/workspace/android1/app/libs/autobanh.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="/home/chris/Desktop/workspace/android1/app/build/intermediates/pre-dexed/debug/autobanh-2be022d4da55130aa1c155a66ffc0383ebc5b3d8.jar" />
+    </item>
+
+</items>
